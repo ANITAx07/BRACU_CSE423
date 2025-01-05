@@ -9,7 +9,13 @@
    [Israt Abdullah Neha](https://github.com/ISRATNEHA01) 
   
 # Library Used
-  1) OpenGL
+   OpenGL
      
 # Algorithm Used
+  Mid Point Line Drawing Algorithm
   
+  Mid-Point Circle Drawing Algorithm
+  
+  8-Way Symmetry Circle Algorithm
+  
+  Zone Conversion Algorithm
